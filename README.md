@@ -60,6 +60,8 @@ GitHub é uma plataforma baseada na web que oferece armazenamento de código-fon
 
 [Fabio Akita - Programação para Iniciantes](https://www.youtube.com/playlist?list=PLdsnXVqbHDUc7htGFobbZoNen3r_wm3ki)
 
+## Projetos de desenvolvimento front-end para iniciantes
+
 <h2>Em-desenvolvimento</h2>
 
 ## Licence 
