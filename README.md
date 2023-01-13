@@ -61,3 +61,7 @@ GitHub é uma plataforma baseada na web que oferece armazenamento de código-fon
 [Fabio Akita - Programação para Iniciantes](https://www.youtube.com/playlist?list=PLdsnXVqbHDUc7htGFobbZoNen3r_wm3ki)
 
 <h2>Em-desenvolvimento</h2>
+
+## Licence 
+
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/AlexandreSantosAL91/portfolio/blob/main/LICENSE)
