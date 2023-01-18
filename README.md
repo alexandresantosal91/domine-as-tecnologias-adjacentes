@@ -14,7 +14,7 @@ Existem muitas técnicas diferentes que as pessoas podem usar para estudar e apr
 
 6 - Peça ajuda quando precisar: Se você estiver tendo dificuldades com algum conceito ou tarefa, não hesite em pedir ajuda a um professor, tutor ou colega de classe. Eles podem ser capazes de esclarecer as coisas de maneira que fique mais fácil para você compreender.
 
-<h1>Links</h1>
+<h2>Links</h2>
 
 [Trello: Formação Básica](https://www.linkedin.com/learning/trello-formacao-basica/colaboracao-e-produtividade-com-trello?autoplay=true)
 
@@ -34,7 +34,7 @@ Git é um sistema de controle de versão de código-fonte que permite que você 
 
 GitHub é uma plataforma baseada na web que oferece armazenamento de código-fonte com controle de versão usando Git. Além disso, o GitHub fornece ferramentas para gerenciamento de projetos, revisão de código e colaboração com outros desenvolvedores. Muitos desenvolvedores usam o GitHub para armazenar e compartilhar seus projetos de código aberto, bem como para trabalhar em projetos privados com equipes de desenvolvimento.
 
-<h1>Links</h1>
+<h2>Links</h2>
 
 [Git: Formação Básicas para Iniciantes](https://hackr.io/tutorials/learn-git)
 
@@ -56,10 +56,13 @@ GitHub é uma plataforma baseada na web que oferece armazenamento de código-fon
 
 6 - Com um pouco de dedicação e esforço, você pode se tornar proficiente em tecnologia e começar a explorar todas as coisas incríveis que ela oferece.
 
-<h1>Links</h1>
+<h2>Curso de Formação em Tecnologia</h2>
+
+[Web Development](https://learn.microsoft.com/pt-br/users/jenlooper-2911/collections/jg2gax8pzd6o81)
+
+<h2>Links</h2>
 
 [Fabio Akita - Programação para Iniciantes](https://www.youtube.com/playlist?list=PLdsnXVqbHDUc7htGFobbZoNen3r_wm3ki)
-
 
 <h2>Em-desenvolvimento</h2>
 
