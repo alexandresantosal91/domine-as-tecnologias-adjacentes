@@ -66,7 +66,7 @@ Curso em Vídeo: [Algoritmo](https://www.cursoemvideo.com/curso/curso-de-algorit
 
 [Web Development](https://learn.microsoft.com/pt-br/users/jenlooper-2911/collections/jg2gax8pzd6o81)
 
-<h2>Links</h2>
+<h2>Links alternativos</h2>
 
 [Fabio Akita - Programação para Iniciantes](https://www.youtube.com/playlist?list=PLdsnXVqbHDUc7htGFobbZoNen3r_wm3ki)
 
