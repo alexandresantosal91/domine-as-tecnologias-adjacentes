@@ -56,6 +56,14 @@ GitHub é uma plataforma baseada na web que oferece armazenamento de código-fon
 
 6 - Com um pouco de dedicação e esforço, você pode se tornar proficiente em tecnologia e começar a explorar todas as coisas incríveis que ela oferece.
 
+<h2> Cursos para Iniciantes </h2>
+
+1 - Curso em Vídeo [Algoritmo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/)
+2 -
+3 -
+4 -
+5 -
+
 <h2>Curso de Formação em Tecnologia</h2>
 
 [Web Development](https://learn.microsoft.com/pt-br/users/jenlooper-2911/collections/jg2gax8pzd6o81)
