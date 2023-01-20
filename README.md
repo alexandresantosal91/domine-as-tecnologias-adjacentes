@@ -60,11 +60,11 @@ GitHub é uma plataforma baseada na web que oferece armazenamento de código-fon
 
 Curso em Vídeo: [Algoritmo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/)
 
----
-
-<h2>Curso de Formação em Tecnologia</h2>
+<h2>Cursos</h2>
 
 [Web Development](https://learn.microsoft.com/pt-br/users/jenlooper-2911/collections/jg2gax8pzd6o81)
+
+[Cybersecurity (e Segurança da Informação)](https://meninadecybersec.notion.site/meninadecybersec/Iniciando-em-Cybersecurity-e-Seguran-a-da-Informa-o-cfe02d5ac2b74576b315083387894890)
 
 <h2>Links alternativos</h2>
 
